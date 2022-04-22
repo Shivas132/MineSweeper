@@ -1,10 +1,5 @@
 import random
-""""
-student : Elyashiv Cohen
-ID : 316534353
-Assignment no.6
-Program: minesweeper.py
-"""
+
 
 """this is a game, to win the game you have to open all the squares that not contains bombs"""
 
